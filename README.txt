@@ -1,0 +1,1 @@
+Put your Google API key inside Resources\values\strings.xml
